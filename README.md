@@ -18,3 +18,7 @@ pkg install git -y
 ```
 pip install colorama
 ```
+
+```
+git clone https://github.com/SergeyRetrunov/NicknameSearch.git
+```
