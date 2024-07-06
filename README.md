@@ -54,7 +54,9 @@ termux-setup-storage
 <img src="https://i.ibb.co/hMTsZm2/Screenshot-2024-07-06-21-39-57-201-ru-iiec-pydroid3-edit.jpg" alt="Screenshot-2024-07-06-21-39-57-201-ru-iiec-pydroid3-edit" border="0">
 
 Теперь используем команду:
+
 ```
 pip install colorama
 ```
 
+Теперь вы можете запустить файл **main.py**
