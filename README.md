@@ -32,3 +32,12 @@ python main.py
 ```
 
 # Ошибка: 
+
+**sh: /data/data/com.termux/files/usr/bin/clear: Permission denied**
+
+*Решение:*  
+Попробуйте использовать данную команду:
+```
+termux-setup-storage
+```
+На данный момент это единственный способ возможного решения проблемы.
