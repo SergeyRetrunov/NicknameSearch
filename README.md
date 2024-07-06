@@ -46,3 +46,7 @@ termux-setup-storage
 Для начала зайдем в терминал:
 
 <img src="https://i.ibb.co/cYh29vy/IMG-20240706-213335.jpg" alt="IMG-20240706-213335" border="0">
+
+<img src="https://i.ibb.co/7zBTJzY/IMG-20240706-213640.jpg" alt="IMG-20240706-213640" border="0">
+
+Отлично, терминал открыт:
