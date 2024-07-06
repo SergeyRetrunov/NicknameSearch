@@ -60,3 +60,6 @@ pip install colorama
 ```
 
 Выходим из терминала и открываем скачанный файл **main.py** и нажимаем на кнопку в правом нижнем углу:
+
+<img src="https://i.ibb.co/TcDSBHs/Screenshot-2024-07-06-21-56-48-326-ru-iiec-pydroid3-edit.jpg" alt="Screenshot-2024-07-06-21-56-48-326-ru-iiec-pydroid3-edit" border="0">
+
