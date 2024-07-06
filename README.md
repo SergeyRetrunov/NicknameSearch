@@ -22,3 +22,13 @@ pip install colorama
 ```
 git clone https://github.com/SergeyRetrunov/NicknameSearch.git
 ```
+
+```
+cd NicknameSearch
+```
+
+```
+python main.py
+```
+
+# Ошибка: 
