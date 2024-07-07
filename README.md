@@ -21,6 +21,10 @@ pip install colorama
 ```
 
 ```
+pip install requests
+```
+
+```
 git clone https://github.com/SergeyRetrunov/NicknameSearch.git
 ```
 
