@@ -9,6 +9,10 @@ apt update && apt upgrade -y
 ```
 
 ```
+pkg install python-pip -y
+```
+
+```
 pkg install python -y
 ```
 
